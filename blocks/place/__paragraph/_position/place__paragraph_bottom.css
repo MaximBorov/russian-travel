@@ -1,0 +1,7 @@
+.place__paragraph_bottom {
+  grid-row: 3;
+  grid-column: 2;
+  margin-top: 0;
+  margin-bottom: auto;
+  border: 1px solid red;
+}
