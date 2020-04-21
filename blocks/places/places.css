@@ -1,7 +1,8 @@
 @import url(../place/place.css);
 
 .places {
-  width: 984px;
-  margin: 0 auto 92px;
-  border: 1px solid red;
+  min-width: 984px;
+  margin: 0 148px 92px;
+  display: grid;
+  row-gap: 80px;
 }

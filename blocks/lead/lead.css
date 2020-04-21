@@ -4,8 +4,7 @@
 @import url(./__caption/lead__caption.css);
 
 .lead {
-  margin: 56px auto 0;
-  width: 984px;
-  display: flex;
-  flex-direction: column;
+  margin: 56px 148px 0;
+  min-width: 984px;
+  display: grid;
 }
