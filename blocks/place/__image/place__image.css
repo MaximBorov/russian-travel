@@ -13,3 +13,9 @@
     height: auto;
   }
 }
+
+@media (max-width : 767px) {
+  .place__image {
+    height: 100%;
+  }
+}
