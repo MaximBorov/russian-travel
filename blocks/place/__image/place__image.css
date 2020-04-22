@@ -5,6 +5,7 @@
   height: 100%;
   object-fit: cover;
   padding-bottom: 100%;
+  -webkit-overflow: hidden;
   overflow: hidden;
 }
 
