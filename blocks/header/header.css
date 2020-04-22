@@ -4,9 +4,19 @@
 @import url(./__link/_lang/header__link_lang_ru.css);
 
 .header {
-  min-width: 1184px;
   margin: 28px 48px 0;
-  display: grid;
-  grid-template-columns: 176px 77px;
+  display: flex;
   justify-content: space-between;
+}
+
+@media (max-width : 1023px) {
+  .header {
+    margin: 28px 24px 0;
+  }
+}
+
+@media (max-width : 767px) {
+  .header {
+    margin: 16px 16px 0;
+  }
 }

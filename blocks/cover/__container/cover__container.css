@@ -7,3 +7,23 @@
   position: relative;
   z-index: -10;
 }
+
+@media (max-width : 1279px) {
+  .cover__container {
+    min-height: 640px;
+  }
+}
+
+@media (max-width : 1023px) {
+  .cover__container {
+    min-height: 480px;
+    margin: 0 auto 88px;
+  }
+}
+
+@media (max-width : 767px) {
+  .cover__container {
+    min-height: 200px;
+    margin: 0 auto 64px;
+  }
+}

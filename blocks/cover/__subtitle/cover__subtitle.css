@@ -10,3 +10,24 @@
   color: #fff;
   z-index: 10;
 }
+
+@media (max-width : 1279px) {
+  .cover__subtitle {
+    top: 227px;
+  }
+}
+
+@media (max-width : 1023px) {
+  .cover__subtitle {
+    top: 147px;
+  }
+}
+
+@media (max-width : 767px) {
+  .cover__subtitle {
+    top: 49px;
+    width: 288px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}

@@ -6,3 +6,9 @@
   margin: auto 0 48px;
   align-content: end;
 }
+
+@media (max-width : 767px) {
+  .place__website {
+    display: none;
+  }
+}
