@@ -5,6 +5,8 @@
   margin: 0 148px 92px;
   display: grid;
   row-gap: 80px;
+  position: relative;
+  z-index: -100;
 }
 
 @media (max-width : 1279px) {
