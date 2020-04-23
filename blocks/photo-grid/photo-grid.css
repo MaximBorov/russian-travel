@@ -30,8 +30,8 @@
   .photo-grid {
     margin: 0 16px 64px;
     grid-template-columns: minmax(288px, 1fr);
-    grid-template-rows: repeat(12, minmax(216px, 1fr));
+    grid-template-rows: repeat(12, 216px);
     row-gap: 12px;
-    border: 1px solid green;
+    border: 1px solid red;
   }
 }
