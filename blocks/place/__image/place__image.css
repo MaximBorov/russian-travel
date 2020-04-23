@@ -5,6 +5,7 @@
   height: 100%;
   object-fit: cover;
   padding-bottom: 100%;
+  overflow: hidden;
   border: 1px solid rgba(42, 44, 47, 0);
 }
 
