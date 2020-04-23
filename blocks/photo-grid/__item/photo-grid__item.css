@@ -6,3 +6,9 @@
   object-fit: cover;
   border: 1px solid red;
 }
+
+@media (max-width : 767px) {
+  .photo-grid__item {
+    height: 216px;
+  }
+}
