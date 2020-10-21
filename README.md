@@ -7,4 +7,4 @@
 * относительные величины
 * медиазапросы
 
-Ссылка на проект: https://github.com/MaximSinyukov/russian-travel/index.html
+Ссылка на проект: https://maximsinyukov.github.io/russian-travel/index.html
